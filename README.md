@@ -56,7 +56,7 @@ The notebooks preserve their original experimental outputs where present, but re
 
 ## Attribution
 
-This work builds on the code and examples accompanying *Modern Time Series Forecasting with Python, Second Edition*. The upstream project and its `src` package remain the work of their respective authors and publisher.
+This work builds on the code and examples accompanying *Modern Time Series Forecasting with Python, Second Edition* by Manu Joseph and Jeffrey Tackes. The upstream project and its `src` package remain the work of their respective authors and publisher.
 
 ## Citation
 
